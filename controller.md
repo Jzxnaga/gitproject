@@ -1,2 +1,2 @@
 controller nya masi 1 
-get doang
+get doang makmur kerjain ini
