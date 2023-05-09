@@ -6,4 +6,4 @@ get doang makmur kerjain ini
 3 . delete done , oke makmur ini gw uda periksa
  
 4 . kerja nya makmur lama gw bantuin buat put update
-
+5 . oke good
